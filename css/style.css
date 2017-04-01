@@ -1,0 +1,67 @@
+.header_style h1{
+	font-size:40px;
+	font-family:calibri;
+	font-weight:bold;
+	color:white;
+}
+.header_style{
+	background-color:#425F9C;
+}
+.form_style p{
+	color:white;
+}
+.form_style a{
+	color:#9cb4d8;
+}
+.button_style{
+	font-family:calibri;
+	padding-top:30px;
+}
+.button_style_font{
+	color:white;
+	background-color:#3879D9;
+}
+.button_style_font:hover{
+	background-color:#425F9C;
+	
+}
+.left_side{
+	font-weight:bold;
+	font-size:22px;
+	padding-top:30px;
+}
+.right_menu_text p{
+	font-weight:bold;
+	font-size:36px;
+}
+.body_bottom_text{
+	font-size:11px;
+	margin-top:8px;
+}
+.create_terms{
+	margin-top:10px;
+}
+.main_page{
+	background-color:#E2E5F0;
+}
+.footer_style{
+	background-color:white;
+}
+.footer_upper p{
+	text-align:center;
+	padding-left:150px;
+	padding-right:150px;
+}
+.bottom_button button{
+	background-color:green;
+	font-weight:bold;
+	color:white;
+	font-size:20px;
+	border-radius:5px;
+}
+.bottom_button button:hover{
+	background-color:#74B560;
+}
+.forget_hover a:hover {
+	color:white;
+}
